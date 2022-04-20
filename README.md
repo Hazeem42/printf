@@ -1,21 +1,20 @@
-#0x11. C - printf
+# 0x11. C - printf
 
 ## Description - The Printf Project
 
---- This is a team project included in the ALX School of Software Engineering Curriculum.
+This is a team project included in the ALX School of Software Engineering Curriculum.
 
 ## By the end of the project, we should be able to:
 
-Use git in a team setting, and pair programming
-Understand the complexities of printf
-Apply variadic functions to a big project.
-Managing a lot of files and good workflow.
+- Use git in a team setting, and pair programming.
+- Understand the complexities of printf.
+- Apply variadic functions to a big project.
+- Managing a lot of files and good workflow.
 
-```_printf```
+**_printf**
+```_printf``` is a custom implementation of the C programming function printf(). This project is an application of the C programming knowledge.
 
-_printf is a custom implementation of the C programming function printf(). This project is an application of the C programming knowledge.
-
-Prototype: int _printf(const char *, ...);
+	**Prototype:** ```int _printf(const char *, ...);```
 
 ## Examples
 
