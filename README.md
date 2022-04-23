@@ -84,5 +84,5 @@ This is a team project included in the ALX School of Software Engineering Curric
 * **print_rot13.c** - contains the function print_R, which handles the conversion specifier R
 
 ## Authors
-* Oshoala kerede
+* Oshoala korede
 * Iniobong Duff
