@@ -46,7 +46,7 @@ int print_octal(va_list l, flags_t *f);
 char *convert(unsigned long int num, int base, int lowercase);
 
 /* _printf */
-char *convert(const char *format, ...);
+int _printf(const char *format, ...);
 
 /* get_print */
 int (*get_print(char s))(va_list, flags_t *);
@@ -68,7 +68,7 @@ int print_rev(va_list l, flags_t *f);
 int print_bigS(va_list l, flags_t *f);
 
 /* print_address */
-int print_percent(va_list l. flags_t *f);
+int print_percent(va_list l, flags_t *f);
 
 /* print_percent */
 int print_percent(va_list l, flags_t *f);
